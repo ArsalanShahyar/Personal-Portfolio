@@ -2,13 +2,62 @@ body {
     font-family: courgette;
 }
 nav {
-   width:100px;
+   width:130px;
    height:100%;
    position: fixed;
-   opacity: 0.5;
    top:0;
    left:0;
    text-align: center;
    border:1px solid black;
-   background-color: ;
+   background-color: rgb(17, 17, 17) ;
+   opacity:0.9;
+   font-family: sens-serif;
+}
+#nav-img {
+    width:100%;
+    opacity: 0.8;
+}
+.nav-item{
+    font-size: 20px;
+    color:white;
+    display:inherit;
+    
+
+    
+}
+.nav-item:hover {
+    background-color: black;
+    height:12%;
+    
+
+}
+nav .nav-item {
+    text-decoration: none;
+}
+.nav-para {
+    text-decoration: none;
+}
+
+
+nav .nav-item .fa {
+    font-size:35px;
+    margin-top:15px;
+    opacity: 0.9;
+}
+nav #home {
+    background-color: black;
+    height: 12%;
+}
+nav #home:hover {
+    background-color: darkgrey;
+}
+#container {
+    display:grid;
+    grid-template-columns: 10% 90%;}
+#top {
+    justify-content: center;
+    border:1px solid black;
+}
+#right {
+    border:1px solid black;
 }
