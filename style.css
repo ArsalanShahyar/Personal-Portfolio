@@ -1,5 +1,6 @@
 body {
     font-family: courgette;
+    background-color: black;
 }
 nav {
    width:130px;
@@ -60,4 +61,18 @@ nav #home:hover {
 }
 #right {
     border:1px solid black;
+}
+#main-photo{
+    display:grid; 
+    justify-content:center;
+}
+.top {
+    color:white;
+    font-size:50px;
+    text-align: center;
+}
+#designer {
+    text-align: center;
+    color:white;
+    font-size:30px;
 }
