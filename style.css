@@ -231,13 +231,13 @@ nav #home:hover {
 .bar .progress-line.css span{
   width: 60%;
 }
-.bar .progress-line.jquery span{
+.bar .progress-line.JavaScript span{
   width: 85%;
 }
-.bar .progress-line.python span{
+.bar .progress-line.PhotoShop span{
   width: 50%;
 }
-.bar .progress-line.mysql span{
+.bar .progress-line.MicroSoft span{
   width: 75%;
 }
 .progress-line span::before{
