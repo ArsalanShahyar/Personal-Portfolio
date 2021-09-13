@@ -329,5 +329,8 @@ nav #home:hover {
      height:50px;
      cursor:pointer;
  }
+ #profile-link {
+     color:white;
+ }
 
  
