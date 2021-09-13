@@ -382,11 +382,16 @@ nav #home:hover {
     } 
     #photos {
         border:1px solid red;
-        width: 100%;
-        margin-left:-10px;
+        width: 90%;
+        margin-left:55px;
     }
     .myphoto{
         width:200px;
-
+        display: grid;
+        
+    }
+    #one {
+        
     }
 }
+    
