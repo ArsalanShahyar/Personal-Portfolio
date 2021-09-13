@@ -48,6 +48,7 @@ nav .nav-item {
 }
 #about {
     margin-left:130px;
+
 }
 #welcome-section
 {
@@ -135,6 +136,12 @@ nav #home:hover {
     width:250px;
     height: 250px;
     object-fit: cover;
+}
+.project-img:hover {
+    box-shadow: 5px 5px 5px white;
+    width:251px;
+    height:251px;
+    
 }
 .items {
     grid-template-columns: 25% 25% 25% 25%; 
@@ -335,4 +342,35 @@ nav #home:hover {
      color:white;
  }
 
- 
+@media only screen and (max-width: 600px) {
+  nav {
+        width:60px;
+    }
+    .top {
+      font-size:30px;
+    }
+    #designer{
+      font-size:20px;
+    }
+    #about {
+        margin-top:-100px;
+    }
+    .title {
+        font-size:25px;
+    }
+    #bio {
+        font-size:15px;
+    }
+    .title2 {
+        font-size:25px;
+    }
+    .skill-bars{
+        margin-left:60px;
+        margin-top:-20px;
+        width:100%;
+    }
+    #projects {
+        width:500px;
+        border:1px solid red;
+        margin-le
+} 
