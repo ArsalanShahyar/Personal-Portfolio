@@ -181,7 +181,7 @@ nav #home:hover {
     background: #fff;
     box-shadow: 5px 5px 20px rgba(0,0,0,0.2);
     border-radius: 10px;
-    margin-left: 140px;
+    margin-left: 340px;
   }
   .skill-bars .bar{
     margin: 20px 0;
@@ -302,6 +302,5 @@ nav #home:hover {
   .myphoto {
       width:500px;
       height:auto;
-
       
   }
