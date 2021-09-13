@@ -113,12 +113,24 @@ nav #home:hover {
 }
 #projects {
     display: grid;
-    grid-template-rows: 25% 25% 25% 25%;
-
+    grid-template-columns: 50% 50%;
+    border-radius: 20px;
+    border:5px solid white;
+    margin-left: 150px;
 
     
+}
+#projects a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-family:serif;
 }
 .project-img {
     width:250px;
     height: 250px;
+    object-fit: cover;
+}
+.para {
+    
 }
