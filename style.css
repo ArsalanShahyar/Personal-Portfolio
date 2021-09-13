@@ -235,13 +235,13 @@ nav #home:hover {
   .bar .progress-line.css span{
     width: 90%;
   }
-  .bar .progress-line.jquery span{
+  .bar .progress-line.JavaScript span{
     width: 50%;
   }
-  .bar .progress-line.python span{
+  .bar .progress-line.PhotoShop span{
     width: 80%;
   }
-  .bar .progress-line.mysql span{
+  .bar .progress-line.Microsoft span{
     width: 90%;
   }
   .progress-line span::before{
@@ -282,12 +282,12 @@ nav #home:hover {
   .progress-line.css span::after{
     content: "90%";
   }
-  .progress-line.jquery span::after{
+  .progress-line.JavaScript span::after{
     content: "50%";
   }
-  .progress-line.python span::after{
+  .progress-line.PhotoShop span::after{
     content: "80%";
   }
-  .progress-line.mysql span::after{
+  .progress-line.Microsoft span::after{
     content: "90%";
   }
