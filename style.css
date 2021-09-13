@@ -371,13 +371,22 @@ nav #home:hover {
     }
     #projects {
         width:400px;
-        border:1px solid red;
-        margin-left:55px;
-        display: flex;
-        flex-direction: row-reverse;
+   
+        margin-left:70px;
+
+
 }
     .project-img {
-        width:50px;
+        width:65px;
  
     } 
+    #photos {
+        border:1px solid red;
+        width: 100%;
+        margin-left:-10px;
+    }
+    .myphoto{
+        width:200px;
+
+    }
 }
