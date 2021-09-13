@@ -347,6 +347,9 @@ nav #home:hover {
     right:-7px;
     height:290px;
 }
+#github{
+    width:40px;
+}
 @media only screen and (max-width: 600px) {
   nav {
         width:60px;
@@ -410,6 +413,13 @@ nav #home:hover {
         font-size:20px;
     }
     #profile-link {
+        font-size:20px;
+    }
+    #github {
+        width:20px;
+        margin-left:4px;
+    }
+    .input {
         
     }
 }
