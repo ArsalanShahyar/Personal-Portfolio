@@ -405,9 +405,10 @@ nav #home:hover {
       height: 110px;;
     }
     #contact {
-        border:1px solid  red;
+     
         width:89%;
         margin-left:53px;
+        height: auto;
     }
     .foot {
         font-size:20px;
@@ -420,7 +421,11 @@ nav #home:hover {
         margin-left:4px;
     }
     .input {
-        
+        width: 300px;
+        height: 30px;;
+    }
+    button {
+        height:40px;
     }
 }
     
