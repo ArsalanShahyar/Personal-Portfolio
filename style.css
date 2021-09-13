@@ -291,3 +291,17 @@ nav #home:hover {
   .progress-line.Microsoft span::after{
     content: "90%";
   }
+  #photos {
+      margin-left:180px;
+      display: grid;
+      grid-template-columns: 25% 25% 25% 25%;
+      grid-column-start: 4;
+      grid-row-end: 2;
+      
+  }
+  .myphoto {
+      width:500px;
+      height:auto;
+
+      
+  }
