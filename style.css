@@ -311,11 +311,5 @@ nav #home:hover {
       margin-left:140px;
       display: grid;
       grid-template-rows: auto;
+      font-size:30px;
       
-  }
-  .icon {
-      width:50px;
-      margin-left:50px;
-      margin-top:50px;
-      
-  }
