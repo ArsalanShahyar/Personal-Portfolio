@@ -370,7 +370,14 @@ nav #home:hover {
         width:100%;
     }
     #projects {
-        width:500px;
+        width:400px;
         border:1px solid red;
-        margin-le
-} 
+        margin-left:55px;
+        display: flex;
+        flex-direction: row-reverse;
+}
+    .project-img {
+        width:50px;
+ 
+    } 
+}
