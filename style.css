@@ -341,7 +341,12 @@ nav #home:hover {
  #profile-link {
      color:white;
  }
-
+#one {
+    margin-top:375px;
+    position: relative;
+    right:-7px;
+    height:290px;
+}
 @media only screen and (max-width: 600px) {
   nav {
         width:60px;
@@ -381,9 +386,9 @@ nav #home:hover {
  
     } 
     #photos {
-        border:1px solid red;
-        width: 90%;
+        width: 89%;
         margin-left:55px;
+        height: 350px;
     }
     .myphoto{
         width:200px;
@@ -391,6 +396,20 @@ nav #home:hover {
         
     }
     #one {
+      position: relative;
+      right:155px;
+      top:-220px;
+      height: 110px;;
+    }
+    #contact {
+        border:1px solid  red;
+        width:89%;
+        margin-left:53px;
+    }
+    .foot {
+        font-size:20px;
+    }
+    #profile-link {
         
     }
 }
