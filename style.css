@@ -304,3 +304,10 @@ nav #home:hover {
       height:auto;
       
   }
+  #contact {
+      background-color:white;
+      width:1100px;
+      height:300px;
+      margin-left:140px;
+      
+  }
