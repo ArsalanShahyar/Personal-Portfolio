@@ -24,7 +24,6 @@ nav {
     opacity: 0.8;
 }
 .nav-item{
-    font-size: 20px;
     color:white;
     display:inherit;
     
@@ -50,7 +49,10 @@ nav .nav-item {
 #about {
     margin-left:130px;
 }
-
+#welcome-section
+{
+    height: 100vh;
+}
 
 nav .nav-item .fa {
     font-size:35px;
