@@ -113,4 +113,12 @@ nav #home:hover {
 }
 #projects {
     display: grid;
+    grid-template-rows: 25% 25% 25% 25%;
+
+
+    
+}
+.project-img {
+    width:250px;
+    height: 250px;
 }
